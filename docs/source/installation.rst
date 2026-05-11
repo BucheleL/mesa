@@ -108,7 +108,7 @@ uses export to set variables):
 
     # set MESA_DIR to be the directory to which you downloaded MESA
     # The directory shown is only an example and must be modified for your particular system.
-    export MESA_DIR=/Users/my_username/Software/mesa-r24.08.1
+    export MESA_DIR=/Users/my_username/Software/mesa-r26.04.1
 
     # set OMP_NUM_THREADS to be the number of cores on your machine
     export OMP_NUM_THREADS=2
